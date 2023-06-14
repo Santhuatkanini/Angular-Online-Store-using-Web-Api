@@ -1,0 +1,161 @@
+{
+  "seller": [
+    {
+      "name": "sam sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": 3
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 4
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": 5
+    },
+    {
+      "name": "alena",
+      "password": "abc123",
+      "email": "alena@test.com",
+      "id": 6
+    },
+    {
+      "name": "sam",
+      "password": "abc@123",
+      "email": "sam@test.com",
+      "id": 7
+    },
+    {
+      "name": "bhasker",
+      "password": "abc@123",
+      "email": "bhasker@test.com",
+      "id": 8
+    },
+    {
+      "name": "Santhosh N",
+      "password": "Santhu@1438567",
+      "email": "getsanthoshn@gmail.com",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "name": "Tecno Camon 20",
+      "price": "14999",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "Tecno Camon 20 (Predawn Black, 8GB RAM,256GB Storage)|16GB Expandable RAM | 64MP RGBW Rear Camera|6.67 FHD+ Big AMOLED with in-Display Fingerprint Sensor",
+      "image": "https://m.media-amazon.com/images/I/61yIRwyqXLL._SL1280_.jpg",
+      "id": 3
+    },
+    {
+      "name": "Realme Narzo 55",
+      "price": "12999",
+      "category": "Mobile",
+      "color": "Blue",
+      "description": "realme narzo N55 (Prime Black, 6GB+128GB) 33W Segment Fastest Charging | Super High-res 64MP Primary AI Camera",
+      "image": "https://m.media-amazon.com/images/I/81ogvU1j6qL._SL1500_.jpg",
+      "id": 4
+    },
+    {
+      "name": "Realme Narzo 55",
+      "price": "8999",
+      "category": "Mobile",
+      "color": "Yellow",
+      "description": "Realme narzo N53 (Feather Gold, 4GB+64GB) 33W Segment Fastest Charging | Slimmest Phone in Segment | 90 Hz Smooth Display",
+      "image": "https://m.media-amazon.com/images/I/71dEY4Neo3L._SL1500_.jpg",
+      "id": 5
+    },
+    {
+      "name": "Samsung Galaxy M13",
+      "price": "11999",
+      "category": "Mobiles",
+      "color": "Black",
+      "description": "Samsung Galaxy M13 (Aqua Green, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus",
+      "image": "https://m.media-amazon.com/images/I/81-fFXQdPTL._SL1500_.jpg",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "hyden",
+      "email": "hyden@user.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc123",
+      "id": 4
+    },
+    {
+      "name": "Santhosh N",
+      "email": "getsanthoshn@gmail.com",
+      "password": "Santhu@123",
+      "id": 5
+    },
+    {
+      "name": "Alvin T Jose",
+      "email": "Alvin@gmail.com",
+      "password": "Alvin@123",
+      "id": 6
+    },
+    {
+      "name": "Gayathri Devi",
+      "email": "Gayathri@gmail.com",
+      "password": "Gayathr@123",
+      "id": 7
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "anil@user.com",
+      "address": "noida sector x",
+      "contact": "9999",
+      "totalPrice": 104750,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "anil@test.com",
+      "address": "noida sector x",
+      "contact": "8877",
+      "totalPrice": 6100,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "email": "getsanthoshn@gmail.com",
+      "address": "#584, 8th cross, Laggere Main Road",
+      "contact": "07204484280",
+      "totalPrice": 15099.000000000002,
+      "userId": 5,
+      "id": 4
+    }
+  ]
+}
